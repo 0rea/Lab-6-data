@@ -1,0 +1,5 @@
+USE se_67543210068DB;
+GO
+
+SELECT * FROM Students 
+ORDER BY age DESC;
